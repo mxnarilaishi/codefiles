@@ -1,0 +1,16 @@
+{
+    "editor.fontSize": 22,
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.colorTheme": "Cute Aesthetic",
+    "animations.Install-Method": "Apc Customize UI++",
+    "apc.imports": [
+        "file:///c:/Users/AISTV-PREMIUM/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+    ],
+    "powermode.combo.counterSize": 1,
+    "workbench.settings.applyToAllProfiles": [
+        
+    ]
+}
